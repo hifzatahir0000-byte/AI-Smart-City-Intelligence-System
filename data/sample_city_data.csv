@@ -1,0 +1,29 @@
+location,day,traffic,aqi
+Saddar,Day 1,1200,95
+Saddar,Day 2,1350,105
+Saddar,Day 3,1280,110
+Saddar,Day 4,1500,125
+Saddar,Day 5,1420,118
+Saddar,Day 6,1600,130
+Saddar,Day 7,1550,120
+Commercial Market,Day 1,950,80
+Commercial Market,Day 2,1020,85
+Commercial Market,Day 3,1100,90
+Commercial Market,Day 4,980,88
+Commercial Market,Day 5,1250,92
+Commercial Market,Day 6,1180,98
+Commercial Market,Day 7,1300,100
+Murree Road,Day 1,1800,130
+Murree Road,Day 2,1950,145
+Murree Road,Day 3,2100,155
+Murree Road,Day 4,2050,160
+Murree Road,Day 5,2200,170
+Murree Road,Day 6,2300,180
+Murree Road,Day 7,2250,175
+Satellite Town,Day 1,700,65
+Satellite Town,Day 2,760,70
+Satellite Town,Day 3,820,72
+Satellite Town,Day 4,790,75
+Satellite Town,Day 5,850,78
+Satellite Town,Day 6,900,80
+Satellite Town,Day 7,880,76
